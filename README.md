@@ -152,16 +152,14 @@ This project is licensed under the MIT License.
 
 **Dhriti Yadav**
 
-💼 Aspiring Software Developer
+
 
 🌐 Portfolio: https://dhriti09.netlify.app
 
 🐙 GitHub: https://github.com/dhriti09
 
-💼 LinkedIn: https://www.linkedin.com/in/dhritiyadav
-
 ---
 
 <p align="center">
-⭐ If you like this project, don't forget to Star the Repository! ⭐
+
 </p>
