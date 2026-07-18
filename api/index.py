@@ -10,10 +10,11 @@ app = Flask(
 
 app.secret_key = "library_secret_key"
 
-DATABASE = "/tmp/library.db"
-if not os.path.exists("/tmp/library.db"):
-    print("Database file not found, creating new...")
-
+if os.environ.get('VERCEL'):
+    DATABASE = "/tmp/library.db"
+else:
+   
+    DATABASE = "library.db"
 
 # ----------------------------
 # Database Connection
